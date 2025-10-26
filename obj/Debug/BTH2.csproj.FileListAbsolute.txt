@@ -1,0 +1,11 @@
+C:\Users\dinhq\source\repos\BTH2\bin\Debug\BTH2.exe.config
+C:\Users\dinhq\source\repos\BTH2\bin\Debug\BTH2.exe
+C:\Users\dinhq\source\repos\BTH2\bin\Debug\BTH2.pdb
+C:\Users\dinhq\source\repos\BTH2\obj\Debug\BTH2.csproj.AssemblyReference.cache
+C:\Users\dinhq\source\repos\BTH2\obj\Debug\BTH2.csproj.CoreCompileInputs.cache
+C:\Users\dinhq\source\repos\BTH2\obj\Debug\BTH2.exe
+C:\Users\dinhq\source\repos\BTH2\obj\Debug\BTH2.pdb
+C:\Users\dinhq\source\repos\BTH2\obj\Debug\BTH2.exe.config
+C:\Users\dinhq\source\repos\BTH2\bin\Debug\System.CodeDom.dll
+C:\Users\dinhq\source\repos\BTH2\bin\Debug\System.CodeDom.xml
+C:\Users\dinhq\source\repos\BTH2\obj\Debug\BTH2.csproj.Up2Date
